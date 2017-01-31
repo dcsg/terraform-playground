@@ -1,2 +1,1 @@
-# terraform-playground
-Terraform playground
+# Terraform Playground
